@@ -1,0 +1,8 @@
+1. Go to the link below and dowwnload the Dataset
+https://cmp.felk.cvut.cz/~spacelib/faces/faces94.html
+
+2. Delete female/gotone subfolder.
+
+3. There are 20 images for 152 persons in the dataset. Make two sub-folders named Train and Test merging the existing sub-folders.
+
+4. In Train folder keep 18 images and other two images in the Test folder.
